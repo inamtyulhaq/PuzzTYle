@@ -4,3 +4,8 @@
 3. .java -> source code
 4. .class -> compile to object code
 
+5. print vs println vs print/println"\n"
+6. \t in java
+7. \" \" to print double quotes
+8. \\ to print \
+
