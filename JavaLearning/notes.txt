@@ -9,3 +9,13 @@
 7. \" \" to print double quotes
 8. \\ to print \
 
+data types:
+-boolean - 1 bit
+-byte - 1 byte
+-short - 2 bytes
+-char - 2 bytes
+-int - 4 bytes
+-float - 4 bytes (uptil 6-7 digits of decimal)
+-long - 8 bytes
+-double - 8 bytes (uptil 15 digits of decimal)
+
