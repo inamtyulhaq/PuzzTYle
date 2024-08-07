@@ -1,0 +1,6 @@
+1. convert low level code to high level code
+2. jdk contains jre (tools, libraries) and jvm (translate code to machine language)
+
+3. .java -> source code
+4. .class -> compile to object code
+
